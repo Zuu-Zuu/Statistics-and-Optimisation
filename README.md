@@ -41,4 +41,6 @@ pip install pandas numpy scikit-learn statsmodels matplotlib seaborn
   - Machine Learning: Scikit-learn
   - Time Series Analysis: pmdarima
   - Data Visualization: Matplotlib, Seaborn
+ 
+Feel free to fork, contribute, and improve the project!
 
