@@ -32,15 +32,6 @@ pip install pandas numpy scikit-learn statsmodels matplotlib seaborn
    jupyter notebook
    ```
 4. Open the respective notebooks for each analysis.
-
-## Technologies Used
-- **Programming Language**: Python
-- **Libraries**:
-  - Data Processing: Pandas, NumPy
-  - Statistical Modeling: Statsmodels
-  - Machine Learning: Scikit-learn
-  - Time Series Analysis: pmdarima
-  - Data Visualization: Matplotlib, Seaborn
  
 Feel free to fork, contribute, and improve the project!
 
