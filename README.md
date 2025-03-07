@@ -32,6 +32,3 @@ pip install pandas numpy scikit-learn statsmodels matplotlib seaborn
    jupyter notebook
    ```
 4. Open the respective notebooks for each analysis.
- 
-Feel free to fork, contribute, and improve the project!
-
